@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there</h1>
+<h1 align="left">👋 Hi there</h1>
 
 <p align="center">
 I'm <b>Angelito Santisas</b>, a passionate Full Stack Developer and tech enthusiast.  
@@ -21,8 +21,9 @@ In my professional journey, I’ve worked on REST APIs, authentication systems, 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenROAD-003366?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Ingres-Database-1F4E79?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
