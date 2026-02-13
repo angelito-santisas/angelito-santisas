@@ -1,12 +1,15 @@
 <h1>👋 About Me</h1>
 
 <p>
-I'm <b>Angelito Borja Santisas</b>, an IT Programmer with nearly 2 years of hands-on experience in software development and over 4 years of professional experience in the finance industry as a Housing Loan Specialist.<br>
+I'm <b>Angelito Borja Santisas</b>, an IT Programmer with nearly 2 years of hands-on experience in software development and over 4 years of professional experience in the finance industry as a Housing Loan Specialist.
+</p>
+
+<p>
 My journey began in finance, where I developed strong analytical thinking, accuracy, and process-oriented problem-solving skills. Transitioning into tech allowed me to apply that same structured mindset to building efficient, reliable, and user-focused systems.
 </p>
 
 <hr>
-
+---
 <h2>🚀 Expertise</h2>
 
 <p>
