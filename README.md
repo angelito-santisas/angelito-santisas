@@ -9,7 +9,7 @@ My journey began in finance, where I developed strong analytical thinking, accur
 </p>
 
 <hr>
----
+
 <h2>🚀 Expertise</h2>
 
 <p>
@@ -19,7 +19,7 @@ I focus on developing clean, responsive, and well-structured web applications us
 <p>
 With a background in finance and business operations, I understand how software should support real-world processes such as HR, payroll, and structured workflows. I enjoy solving practical problems through maintainable code, validation best practices, and continuous improvement.
 </p>
-
+<hr>
 ## 🧰 Tech Stack
 
 <p>
