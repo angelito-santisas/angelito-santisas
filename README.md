@@ -1,8 +1,8 @@
-<h1>👋 Hi there</h1>
+<h1>👋 About Me</h1>
 
 <p>
-I'm <b>Angelito Santisas</b>, a passionate Full Stack Developer and tech enthusiast.  
-Currently focused on building scalable backend systems and modern web applications.
+I'm <b>Angelito Santisas</b>, an IT Programmer with nearly 2 years of hands-on experience in software development and over 4 years of professional experience in the finance industry as a Housing Loan Specialist.<br>
+My career journey started in finance, where I developed strong analytical thinking, attention to detail, and problem-solving skills. Transitioning into tech allowed me to combine logic, creativity, and structure — building applications that are not only functional but also user-focused and efficient.
 </p>
 
 ---
