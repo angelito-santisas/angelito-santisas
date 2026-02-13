@@ -1,4 +1,4 @@
-<h1>👋 About Me</h1>
+<h2>👋 About Me</h2>
 
 <p>
 I'm <b>Angelito Borja Santisas</b>, an IT Programmer with nearly 2 years of hands-on experience in software development and over 4 years of professional experience in the finance industry as a Housing Loan Specialist.
