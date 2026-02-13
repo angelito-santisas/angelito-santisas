@@ -1,19 +1,21 @@
 <h1>👋 About Me</h1>
 
 <p>
-I'm <b>Angelito Santisas</b>, an IT Programmer with nearly 2 years of hands-on experience in software development and over 4 years of professional experience in the finance industry as a Housing Loan Specialist.<br>
-My career journey started in finance, where I developed strong analytical thinking, attention to detail, and problem-solving skills. Transitioning into tech allowed me to combine logic, creativity, and structure — building applications that are not only functional but also user-focused and efficient.
+I'm <b>Angelito Borja Santisas</b>, an IT Programmer with nearly 2 years of hands-on experience in software development and over 4 years of professional experience in the finance industry as a Housing Loan Specialist.<br>
+My journey began in finance, where I developed strong analytical thinking, accuracy, and process-oriented problem-solving skills. Transitioning into tech allowed me to apply that same structured mindset to building efficient, reliable, and user-focused systems.
 </p>
 
----
+<hr>
 
-## 🚀 Expertise
+<h2>🚀 Expertise</h2>
 
-Passionate about crafting interactive and intuitive user experiences. I specialize in front-end and backend development, combining modern frameworks with best practices and clean architecture.
+<p>
+I focus on developing clean, responsive, and well-structured web applications using HTML, CSS, and JavaScript, with solid backend logic and SQL database handling. I have experience working on system enhancements, debugging issues, improving workflows, and maintaining business applications.
+</p>
 
-In my professional journey, I’ve worked on REST APIs, authentication systems, and full-stack applications using Java and Angular. I enjoy solving real-world problems through efficient and maintainable code.
-
----
+<p>
+With a background in finance and business operations, I understand how software should support real-world processes such as HR, payroll, and structured workflows. I enjoy solving practical problems through maintainable code, validation best practices, and continuous improvement.
+</p>
 
 ## 🧰 Tech Stack
 
